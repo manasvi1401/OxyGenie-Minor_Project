@@ -1,0 +1,59 @@
+version: '3.8'
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: oxygenie_db
+      POSTGRES_USER: oxygenie_user
+      POSTGRES_PASSWORD: oxygenie_pass
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis:6
+    ports:
+      - "6379:6379"
+
+  backend:
+    build: ./backend
+    command: >
+      sh -c "python manage.py migrate &&
+             python manage.py runserver 0.0.0.0:8000"
+    volumes:
+      - ./backend:/app
+      - media:/app/media
+    environment:
+      - DEBUG=1
+      - DATABASE_URL=postgres://oxygenie_user:oxygenie_pass@db:5432/oxygenie_db
+      - REDIS_URL=redis://redis:6379/0
+      - ML_SERVICE_URL=http://ml_service:5000/predict
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - redis
+      - ml_service
+
+  ml_service:
+    build: ./ml_service
+    command: python app.py
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./ml_service:/ml_service
+
+  frontend:
+    build: ./frontend
+    command: npm run dev -- --host
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app
+    environment:
+      - VITE_API_URL=http://localhost:8000/api
+
+volumes:
+  pgdata:
+  media:

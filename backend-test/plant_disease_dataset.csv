@@ -1,0 +1,151 @@
+id,plant_category,symptom_text,disease_label,severity,treatment,prevention,expert_verified,scientific_source
+1,Shrub,powdery or moldy growth on foliage,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+2,Shrub,holes and chewing damage on leaves,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+3,Ornamental Plant,brown necrotic spots on leaves,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+4,Indoor Plant,sticky honeydew on leaf surface,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+5,Medicinal Plant,leaf discoloration due to nutrient stress,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+6,Flowering Plant,vigorous growth with no visible lesions,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+7,Flowering Plant,water-soaked lesions turning dark,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+8,Medicinal Plant,uniform green leaves with normal growth,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+9,Ornamental Plant,stunted plant growth with yellow leaves,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+10,Vegetable Plant,pale leaves with poor development,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+11,Shrub,pale leaves with poor development,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+12,Vegetable Plant,stunted plant growth with yellow leaves,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+13,Vegetable Plant,pale leaves with poor development,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+14,Shrub,healthy foliage and strong stem,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+15,Herb,holes and chewing damage on leaves,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+16,Herb,normal leaf structure and development,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+17,Shrub,presence of tiny insects on foliage,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+18,Shrub,water-soaked lesions turning dark,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+19,Flowering Plant,healthy foliage and strong stem,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+20,Medicinal Plant,water-soaked lesions turning dark,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+21,Vegetable Plant,uniform green leaves with normal growth,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+22,Medicinal Plant,vigorous growth with no visible lesions,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+23,Flowering Plant,presence of tiny insects on foliage,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+24,Flowering Plant,vigorous growth with no visible lesions,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+25,Indoor Plant,sticky honeydew on leaf surface,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+26,Medicinal Plant,chlorosis and slow growth,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+27,Fruit Plant,vigorous growth with no visible lesions,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+28,Fruit Plant,stunted plant growth with yellow leaves,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+29,Flowering Plant,leaf curling due to insect attack,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+30,Herb,yellowing of older leaves,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+31,Flowering Plant,leaf discoloration due to nutrient stress,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+32,Fruit Plant,yellowing of older leaves,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+33,Medicinal Plant,visible pest feeding damage,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+34,Fruit Plant,black fungal patches spreading,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+35,Shrub,presence of tiny insects on foliage,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+36,Fruit Plant,no discoloration or pest damage,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+37,Vegetable Plant,leaf rot with wilting symptoms,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+38,Ornamental Plant,leaf curling due to insect attack,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+39,Shrub,sticky honeydew on leaf surface,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+40,Indoor Plant,leaf discoloration due to nutrient stress,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+41,Shrub,visible pest feeding damage,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+42,Medicinal Plant,yellowing of older leaves,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+43,Fruit Plant,powdery or moldy growth on foliage,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+44,Herb,leaf rot with wilting symptoms,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+45,Indoor Plant,powdery or moldy growth on foliage,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+46,Herb,no discoloration or pest damage,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+47,Herb,visible pest feeding damage,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+48,Shrub,water-soaked lesions turning dark,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+49,Indoor Plant,leaf curling due to insect attack,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+50,Vegetable Plant,black fungal patches spreading,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+51,Herb,sticky honeydew on leaf surface,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+52,Medicinal Plant,leaf discoloration due to nutrient stress,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+53,Flowering Plant,uniform green leaves with normal growth,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+54,Herb,uniform green leaves with normal growth,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+55,Medicinal Plant,chlorosis and slow growth,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+56,Herb,leaf rot with wilting symptoms,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+57,Shrub,stunted plant growth with yellow leaves,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+58,Fruit Plant,holes and chewing damage on leaves,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+59,Fruit Plant,powdery or moldy growth on foliage,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+60,Indoor Plant,brown necrotic spots on leaves,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+61,Fruit Plant,sticky honeydew on leaf surface,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+62,Shrub,healthy foliage and strong stem,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+63,Ornamental Plant,no discoloration or pest damage,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+64,Shrub,black fungal patches spreading,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+65,Vegetable Plant,yellowing of older leaves,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+66,Ornamental Plant,uniform green leaves with normal growth,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+67,Shrub,brown necrotic spots on leaves,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+68,Fruit Plant,powdery or moldy growth on foliage,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+69,Shrub,uniform green leaves with normal growth,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+70,Shrub,yellowing of older leaves,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+71,Indoor Plant,normal leaf structure and development,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+72,Shrub,visible pest feeding damage,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+73,Shrub,presence of tiny insects on foliage,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+74,Shrub,yellowing of older leaves,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+75,Medicinal Plant,sticky honeydew on leaf surface,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+76,Fruit Plant,brown necrotic spots on leaves,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+77,Vegetable Plant,vigorous growth with no visible lesions,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+78,Indoor Plant,presence of tiny insects on foliage,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+79,Ornamental Plant,leaf rot with wilting symptoms,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+80,Indoor Plant,water-soaked lesions turning dark,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+81,Vegetable Plant,normal leaf structure and development,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+82,Vegetable Plant,brown necrotic spots on leaves,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+83,Herb,sticky honeydew on leaf surface,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+84,Ornamental Plant,stunted plant growth with yellow leaves,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+85,Shrub,stunted plant growth with yellow leaves,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+86,Shrub,leaf discoloration due to nutrient stress,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+87,Flowering Plant,presence of tiny insects on foliage,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+88,Shrub,yellowing of older leaves,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+89,Shrub,leaf discoloration due to nutrient stress,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+90,Ornamental Plant,leaf curling due to insect attack,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+91,Shrub,leaf curling due to insect attack,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+92,Medicinal Plant,leaf rot with wilting symptoms,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+93,Ornamental Plant,water-soaked lesions turning dark,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+94,Indoor Plant,black fungal patches spreading,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+95,Flowering Plant,healthy foliage and strong stem,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+96,Herb,black fungal patches spreading,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+97,Shrub,brown necrotic spots on leaves,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+98,Indoor Plant,visible pest feeding damage,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+99,Ornamental Plant,leaf rot with wilting symptoms,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+100,Fruit Plant,vigorous growth with no visible lesions,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+101,Fruit Plant,water-soaked lesions turning dark,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+102,Shrub,healthy foliage and strong stem,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+103,Medicinal Plant,leaf curling due to insect attack,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+104,Ornamental Plant,chlorosis and slow growth,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+105,Fruit Plant,black fungal patches spreading,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+106,Shrub,leaf discoloration due to nutrient stress,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+107,Herb,stunted plant growth with yellow leaves,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+108,Flowering Plant,black fungal patches spreading,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+109,Herb,visible pest feeding damage,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+110,Fruit Plant,no discoloration or pest damage,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+111,Ornamental Plant,black fungal patches spreading,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+112,Medicinal Plant,leaf discoloration due to nutrient stress,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+113,Ornamental Plant,brown necrotic spots on leaves,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+114,Vegetable Plant,leaf rot with wilting symptoms,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+115,Vegetable Plant,black fungal patches spreading,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+116,Vegetable Plant,normal leaf structure and development,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+117,Fruit Plant,brown necrotic spots on leaves,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+118,Shrub,uniform green leaves with normal growth,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+119,Indoor Plant,uniform green leaves with normal growth,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+120,Vegetable Plant,uniform green leaves with normal growth,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+121,Shrub,brown necrotic spots on leaves,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+122,Fruit Plant,uniform green leaves with normal growth,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+123,Herb,brown necrotic spots on leaves,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+124,Shrub,visible pest feeding damage,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+125,Shrub,no discoloration or pest damage,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+126,Shrub,powdery or moldy growth on foliage,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+127,Fruit Plant,chlorosis and slow growth,Nutrient Deficiency,mild,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+128,Herb,chlorosis and slow growth,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+129,Fruit Plant,normal leaf structure and development,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+130,Medicinal Plant,uniform green leaves with normal growth,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+131,Fruit Plant,leaf curling due to insect attack,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+132,Ornamental Plant,chlorosis and slow growth,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+133,Medicinal Plant,chlorosis and slow growth,Nutrient Deficiency,severe,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+134,Ornamental Plant,visible pest feeding damage,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+135,Vegetable Plant,yellowing of older leaves,Nutrient Deficiency,moderate,Apply balanced NPK fertilizer after soil testing,Use nutrient-rich soil and periodic fertilization,TRUE,https://icar.org.in
+136,Flowering Plant,sticky honeydew on leaf surface,Pest Infestation,mild,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+137,Ornamental Plant,no discoloration or pest damage,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+138,Vegetable Plant,visible pest feeding damage,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+139,Flowering Plant,visible pest feeding damage,Pest Infestation,moderate,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
+140,Vegetable Plant,vigorous growth with no visible lesions,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+141,Herb,brown necrotic spots on leaves,Fungal Disease,severe,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+142,Indoor Plant,healthy foliage and strong stem,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+143,Flowering Plant,water-soaked lesions turning dark,Fungal Disease,moderate,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+144,Ornamental Plant,vigorous growth with no visible lesions,Healthy Plant,mild,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+145,Medicinal Plant,leaf rot with wilting symptoms,Fungal Disease,mild,Remove infected parts and apply recommended fungicide,Ensure proper air circulation and avoid leaf wetness,TRUE,https://www.fao.org/plant-health
+146,Indoor Plant,vigorous growth with no visible lesions,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+147,Ornamental Plant,no discoloration or pest damage,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+148,Indoor Plant,normal leaf structure and development,Healthy Plant,moderate,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+149,Fruit Plant,vigorous growth with no visible lesions,Healthy Plant,severe,No treatment required; maintain routine care,Balanced irrigation and adequate sunlight,TRUE,https://www.fao.org/plant-health
+150,Flowering Plant,sticky honeydew on leaf surface,Pest Infestation,severe,Apply neem-based or approved biopesticide,Regular inspection and field sanitation,TRUE,https://icar.org.in
