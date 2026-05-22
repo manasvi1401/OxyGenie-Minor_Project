@@ -1,1 +1,3 @@
-# OG-minor
+The proposed system, OxyGenie – SmartCare for Leaf & Life, is an intelligent, web-based plant care application designed to overcome the limitations of existing gardening systems. The system aims to provide personalized plant recommendations and care guidance by considering user preferences and environmental conditions.
+OxyGenie collects essential inputs from users such as region, season, soil type, sunlight availability, and indoor or outdoor placement. Based on these inputs, the system recommends suitable plants using a rule-based and machine learning–driven recommendation engine. This ensures that users select plants that are compatible with their environment, thereby improving plant survival and growth.
+It also allows text and image based disease detection using NLP and CNN.
